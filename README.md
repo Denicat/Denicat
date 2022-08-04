@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denise
 - 👀 .
-- 🌱 I’m currently learning .HTML and CSS..
+- 🌱 I’m currently learning .HTML and CSS and Java Script
 - 💞️ 
 
 
